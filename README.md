@@ -22,5 +22,5 @@ This is the last part... a dialogue will now appear asking you whether you want 
 
 Now the program will work all by itself and you can sit back and relax until the installation finishes. All it will do is process the dataset and train the model it will work from.
 
-#Usage
+# Usage
 You can now type "description.py --help" to see all the commands. Or just directly type "description.py --img_path " followed by the path to the image you want to describe.
