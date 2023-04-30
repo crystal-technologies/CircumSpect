@@ -3,8 +3,11 @@ Open-source software for processing images and generating natural language descr
 
 #Prerequisites
   Python 3 - The code is entirely dependant on python
+  
   NVIDIA GPU - It has to be NVIDIA in order to work
+  
   Internet connection to download the required files and dataset
+  
   At least 30GB of storage
 
 # Installation
