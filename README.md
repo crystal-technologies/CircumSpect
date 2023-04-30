@@ -1,7 +1,7 @@
 # CircumSpect
 Open-source software for processing images and generating natural language descriptions. Analyzes visual content using state-of-the-art computer vision algorithms. Suitable for researchers, programmers and anyone who needs quick understanding of image content.
 
-#Prerequisites
+# Prerequisites
   Python 3 - The code is entirely dependant on python
   
   NVIDIA GPU - It has to be NVIDIA in order to work
